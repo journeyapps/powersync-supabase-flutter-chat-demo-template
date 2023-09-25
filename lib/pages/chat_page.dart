@@ -12,7 +12,6 @@ import 'package:timeago/timeago.dart';
 
 Future<void> logout() async {
   await Supabase.instance.client.auth.signOut();
-  // await db.disconnectedAndClear();
 }
 
 /// Page to chat with someone.
