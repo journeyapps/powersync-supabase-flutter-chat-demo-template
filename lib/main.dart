@@ -1,8 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:supabase_tutorial_chat_app/utils/constants.dart';
-import 'package:supabase_flutter/supabase_flutter.dart';
-import 'package:supabase_tutorial_chat_app/pages/splash_page.dart';
-import 'package:flutter_dotenv/flutter_dotenv.dart';
+import './powersync.dart';
+import './utils/constants.dart';
+import './pages/splash_page.dart';
 
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();

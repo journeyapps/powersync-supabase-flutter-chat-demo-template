@@ -2,11 +2,10 @@ import 'dart:async';
 
 import 'package:flutter/material.dart';
 
-import 'package:supabase_tutorial_chat_app/models/message.dart';
-import 'package:supabase_tutorial_chat_app/models/profile.dart';
-import 'package:supabase_tutorial_chat_app/pages/login_page.dart';
-import 'package:supabase_tutorial_chat_app/pages/splash_page.dart';
-import 'package:supabase_tutorial_chat_app/utils/constants.dart';
+import '../models/message.dart';
+import '../models/profile.dart';
+import '../utils/constants.dart';
+import './splash_page.dart';
 import 'package:supabase_flutter/supabase_flutter.dart';
 import 'package:timeago/timeago.dart';
 
