@@ -1,2 +1,2 @@
 # powersync-supabase-flutter-chat-demo-template
-Template repo based on the Supabase Flutter tutorial to build a simple chat app: https://supabase.com/blog/flutter-tutorial-building-a-chat-app
+Template repo for the PowerSync + Supabase + Flutter tutorial: https://www.powersync.com/blog/flutter-tutorial-building-an-offline-first-chat-app-with-supabase-and-powersync
